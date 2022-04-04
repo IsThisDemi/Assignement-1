@@ -7,5 +7,5 @@ INVENTARIO
 - schede_madri
 
 ## periferiche
-
+- tastiere
 Elettronica Padovana
