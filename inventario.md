@@ -8,4 +8,6 @@ INVENTARIO
 
 ## periferiche
 - tastiere
+- mouse
+
 Elettronica Padovana
