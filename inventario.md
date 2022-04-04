@@ -4,3 +4,5 @@ INVENTARIO
 ---
 - Processori
 - schede_madri
+
+Elettronica Padovana
