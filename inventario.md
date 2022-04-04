@@ -3,3 +3,4 @@
 INVENTARIO
 ---
 - Processori
+- schede_madri
